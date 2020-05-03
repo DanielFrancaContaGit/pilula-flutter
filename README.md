@@ -1,16 +1,21 @@
-# app_do_pikachu
+# How to start with Flutter
 
-A new Flutter project.
+## Before you start you need to follow these steps:
 
-## Getting Started
+#### Step 1 Install Flutter and Android studio:
 
-This project is a starting point for a Flutter application.
+- [Flutter](https://flutter.dev/docs/get-started/install/linux)
+- [Androis studio](https://developer.android.com/studio#downloads)
 
-A few resources to get you started if this is your first Flutter project:
+#### Step 2 Set up an editor:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- [VS Code](https://flutter.dev/docs/get-started/editor?tab=vscode)
+- [Android Studio](https://flutter.dev/docs/get-started/editor?tab=androidstudio)
+- [Emacs](https://flutter.dev/docs/get-started/editor?tab=emacs)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Getting Started
+
+To start the project if you are using vs code just press the F5 key and the app will start to be built and will appear in your simulator
+
+if you are using a different editor use this [guide](https://flutter.dev/docs/get-started/test-drive?tab=androidstudio):
+- [Guide](https://flutter.dev/docs/get-started/test-drive?tab=androidstudio)
