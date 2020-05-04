@@ -17,7 +17,7 @@ Língua: [English](README.md) | [Português](translation/pt-BR/README.md)
 
 ### Começando
 
-Para iniciar o projeto, se você estiver usando o código vs, basta pressionar a tecla F5 e o aplicativo começará a ser construído e aparecerá no seu simulador.
+Para iniciar o projeto, se você estiver usando o vs code, basta pressionar a tecla F5 e o aplicativo começará a ser construído e aparecerá no seu simulador.
 
 Se você estiver usando um editor diferente, use guia [guia](https://flutter.dev/docs/get-started/test-drive?tab=androidstudio):
 - [Guia](https://flutter.dev/docs/get-started/test-drive?tab=androidstudio)
