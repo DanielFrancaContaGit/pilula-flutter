@@ -1,3 +1,5 @@
+Language: [English](README.md) | [Português](translation/pt-BR/README.md) 
+
 # How to start with Flutter
 
 ## Before you start you need to follow these steps:
